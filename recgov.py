@@ -11,7 +11,7 @@ URLS = {
     "westwater_sept": "https://www.recreation.gov/api/permitwbe/621744/availability/monthly?year=2025&start_date=2025-09-01&division_id=744",
     "westwater_oct": "https://www.recreation.gov/api/permitwbe/621744/availability/monthly?year=2025&start_date=2025-10-01&division_id=744",
     # "crater_lake_3d": "https://www.recreation.gov/api/permititinerary/4675319/division/4675319029/availability/month?month=8&year=2025",
-    "crater_lake_season": "https://www.recreation.gov/api/permititinerary/4675318/division/4675318029/availability/month?month=8&year=2025",
+    "crater_lake_season": "https://www.recreation.gov/api/permititinerary/4675319/division/4675318029/availability/month?month=8&year=2025",
     # "middle_fork": "https://www.recreation.gov/api/permits/234623/divisions/377/availability?start_date=2025-07-29T06:00:00.000Z&end_date=2025-12-31T00:00:00.000Z&commercial_acct=false&is_lottery=false",
     # "main_salmon": "https://www.recreation.gov/api/permits/234622/divisions/376/availability?start_date=2025-07-29T06:00:00.000Z&end_date=2025-12-31T00:00:00.000Z&commercial_acct=false&is_lottery=false",
 }
